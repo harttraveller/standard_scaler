@@ -1,3 +1,6 @@
+import json
+import numpy as np
+
 class StandardScaler:
     def __init__(self,elim_zero=False):
         self.__elim_zero = elim_zero
