@@ -8,7 +8,7 @@ setup(
   author = 'Hart Massie-Keller',
   author_email = 'hartktraveller@gmail.com', 
   url = 'https://github.com/hartktmk/standard_scaler',
-  download_url = 'https://github.com/hartktmk/standard_scaler/archive/refs/tags/0.1.tar.gz',
+  download_url = 'https://github.com/hartktmk/standard_scaler/archive/refs/tags/0.2.tar.gz',
   keywords = ['standard', 'scaler', 'scaling','transform','ml','ai'],
   install_requires=[ 
           'numpy'
