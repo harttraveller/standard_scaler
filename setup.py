@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'standard_scaler',
   packages = ['standard_scaler'],
-  version = '0.1',     
+  version = '0.2',     
   license='MIT',    
   description = 'An alternative to scikit-learn standard scaler', 
   author = 'Hart Massie-Keller',
